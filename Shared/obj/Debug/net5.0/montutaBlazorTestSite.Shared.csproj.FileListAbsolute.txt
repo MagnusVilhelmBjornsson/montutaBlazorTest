@@ -1,0 +1,12 @@
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\bin\Debug\net5.0\montutaBlazorTestSite.Shared.deps.json
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\bin\Debug\net5.0\montutaBlazorTestSite.Shared.dll
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\bin\Debug\net5.0\ref\montutaBlazorTestSite.Shared.dll
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\bin\Debug\net5.0\montutaBlazorTestSite.Shared.pdb
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\montutaBlazorTestSite.Shared.csprojAssemblyReference.cache
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\montutaBlazorTestSite.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\montutaBlazorTestSite.Shared.AssemblyInfoInputs.cache
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\montutaBlazorTestSite.Shared.AssemblyInfo.cs
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\montutaBlazorTestSite.Shared.csproj.CoreCompileInputs.cache
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\montutaBlazorTestSite.Shared.dll
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\ref\montutaBlazorTestSite.Shared.dll
+D:\Montuta\blazorSite\montutaBlazorTestSite\Shared\obj\Debug\net5.0\montutaBlazorTestSite.Shared.pdb
